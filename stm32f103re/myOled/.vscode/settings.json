@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "key.h": "c",
+        "led.h": "c",
+        "timer.h": "c",
+        "stm32f10x.h": "c",
+        "oled.h": "c",
+        "adc.h": "c",
+        "pwm.h": "c",
+        "encoder.h": "c",
+        "serial.h": "c",
+        "cstddef": "c",
+        "cstdint": "c"
+    }
+}
